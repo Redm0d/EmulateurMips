@@ -2,7 +2,7 @@
 
 ---
 title: Projet CS351 (2022-2023): Émulateur MIPS
-author: [CAMUS Alexis, ALAZARD Camilles]
+author: [CAMUS Alexis, ALAZARD Camille]
 date: [22/11/2022]
 ---
 
